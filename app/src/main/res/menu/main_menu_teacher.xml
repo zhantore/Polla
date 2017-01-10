@@ -3,35 +3,35 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_groups"
-            android:icon=""
+            android:icon="@drawable/university-graduate"
             android:title="Группы" />
         <item
             android:id="@+id/nav_students"
-            android:icon=""
+            android:icon="@drawable/teacher"
             android:title="Студенты" />
         <item
             android:id="@+id/nav_payment"
-            android:icon=""
+            android:icon="@drawable/flat"
             android:title="Оплаты" />
         <item
             android:id="@+id/nav_schedule"
-            android:icon=""
+            android:icon="@drawable/calendar-interface"
             android:title="Расписание" />
         <item
             android:id="@+id/nav_notification"
-            android:icon=""
+            android:icon="@drawable/calendar-tool"
             android:title="Уведомления" />
         <item
             android:id="@+id/nav_events"
-            android:icon=""
+            android:icon="@drawable/calendar-interface"
             android:title="Событии" />
         <item
             android:id="@+id/nav_news"
-            android:icon=""
+            android:icon="@drawable/newspaper"
             android:title="Новости" />
         <item
             android:id="@+id/nav_exit"
-            android:icon=""
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
             android:title="Выйти" />
     </group>
 </menu>

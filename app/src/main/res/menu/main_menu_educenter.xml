@@ -5,45 +5,47 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_branches"
+            android:icon="@drawable/university-graduate"
             android:title="Филиалы" />
         <item
             android:id="@+id/nav_teachers"
+            android:icon="@drawable/teacher"
             android:title="Преподаватели" />
         <item
             android:id="@+id/nav_groups"
-            android:icon=""
+            android:icon="@drawable/flat"
             android:title="Группы" />
         <item
             android:id="@+id/nav_students"
-            android:icon=""
+            android:icon="@drawable/teacher"
             android:title="Студенты" />
         <item
             android:id="@+id/nav_auditoria"
-            android:icon=""
+            android:icon="@drawable/search"
             android:title="Аудитории" />
         <item
             android:id="@+id/nav_discounts"
-            android:icon=""
+            android:icon="@drawable/coupon"
             android:title="Скидки/акции" />
         <item
             android:id="@+id/nav_payment"
-            android:icon=""
+            android:icon="@drawable/newspaper"
             android:title="Оплаты" />
         <item
             android:id="@+id/nav_schedule"
-            android:icon=""
+            android:icon="@drawable/calendar-interface"
             android:title="Расписание" />
         <item
             android:id="@+id/nav_vakancii"
-            android:icon=""
+            android:icon="@drawable/contract"
             android:title="Вакансии" />
         <item
             android:id="@+id/nav_news"
-            android:icon=""
+            android:icon="@drawable/newspaper"
             android:title="Новости" />
         <item
             android:id="@+id/nav_exit"
-            android:icon=""
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
             android:title="Выйти" />
     </group>
 
