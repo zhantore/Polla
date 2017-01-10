@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_course"
+            android:icon=""
+            android:title="Курсы/тренинги" />
+        <item
+            android:id="@+id/nav_coach"
+            android:icon=""
+            android:title="Тренеры (Репетиторы)" />
+        <item
+            android:id="@+id/nav_educenter"
+            android:icon=""
+            android:title="Учебные центры" />
+        <item
+            android:id="@+id/nav_discounts"
+            android:icon=""
+            android:title="Скидки/акции" />
+        <item
+            android:id="@+id/nav_vakancii"
+            android:icon=""
+            android:title="Вакансии" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon=""
+            android:title="Событии" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon=""
+            android:title="Новости" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon=""
+            android:title="Оплаты" />
+        <item
+            android:id="@+id/nav_my_schedule"
+            android:icon=""
+            android:title="Мое расписание" />
+        <item
+            android:id="@+id/nav_my_tasks"
+            android:icon=""
+            android:title="Мое задачи" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon=""
+            android:title="Выйти" />
+    </group>
+</menu>

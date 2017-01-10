@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_branches"
+            android:title="Филиалы" />
+        <item
+            android:id="@+id/nav_teachers"
+            android:title="Преподаватели" />
+        <item
+            android:id="@+id/nav_groups"
+            android:icon=""
+            android:title="Группы" />
+        <item
+            android:id="@+id/nav_students"
+            android:icon=""
+            android:title="Студенты" />
+        <item
+            android:id="@+id/nav_auditoria"
+            android:icon=""
+            android:title="Аудитории" />
+        <item
+            android:id="@+id/nav_discounts"
+            android:icon=""
+            android:title="Скидки/акции" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon=""
+            android:title="Оплаты" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon=""
+            android:title="Расписание" />
+        <item
+            android:id="@+id/nav_vakancii"
+            android:icon=""
+            android:title="Вакансии" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon=""
+            android:title="Новости" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon=""
+            android:title="Выйти" />
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
